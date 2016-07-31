@@ -1,0 +1,17 @@
+body  {
+
+}
+
+main  {
+  min-height: 600px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+footer  {
+  padding-bottom: 50px;
+  padding-top: 50px;
+  background: #222;
+  color: #EEE;
+  text-align: center;
+}
